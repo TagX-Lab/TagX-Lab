@@ -1,4 +1,4 @@
-# <div align="center">⚡ TAGX Labs™</div>
+# <div align="center">⚡ TAGX LABS™</div>
 
 <div align="center">
 
@@ -10,24 +10,27 @@
  /_/  /_/  |_\____/ /_/|_| /_____/\__,_/_.___//____/ /____/  
 ```
 
-### **Pioneering Autonomous Desktop Utilities, Hardware Kinematics & Cyber Defense**
+### **Applied Software Engineering, Autonomous Systems & Applied R&D**
+*Building high-performance software, native systems utilities, and precision developer tools.*
 
-[![Website](https://img.shields.io/badge/Official%20Website-TAGX%20Labs-00FFEA?style=for-the-badge&logo=googlechrome&logoColor=black)](https://tagx-lab.github.io/mousepilot-website/)
-[![Flagship](https://img.shields.io/badge/Flagship-MousePilot%20v1.0.0-8CC7C4?style=for-the-badge&logo=windows&logoColor=black)](https://github.com/TagX-Lab/mousepilot)
-[![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-2C687B?style=for-the-badge&logo=microsoft&logoColor=white)](https://github.com/TagX-Lab/mousepilot)
-[![License](https://img.shields.io/badge/License-MIT-DB1A1A?style=for-the-badge)](https://github.com/TagX-Lab/mousepilot/blob/main/LICENSE)
+<br/>
+
+[![Status](https://img.shields.io/badge/Status-Active_R%26D-00FFEA?style=for-the-badge&logo=statuspage&logoColor=black)](https://github.com/TagX-Lab)
+[![Ecosystem](https://img.shields.io/badge/Ecosystem-Open_Source-8CC7C4?style=for-the-badge&logo=github&logoColor=black)](https://github.com/TagX-Lab)
+[![Security](https://img.shields.io/badge/Security-Zero_Trust-DB1A1A?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/TagX-Lab/mousepilot/blob/main/SECURITY.md)
+[![License](https://img.shields.io/badge/License-MIT-2C687B?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 <br/>
 
 <p align="center">
   <a href="https://tagx-lab.github.io/mousepilot-website/">
-    <img src="https://img.shields.io/badge/Explore-Live_Website-00FFEA?style=flat-square&logo=githubpages&logoColor=black" alt="Website"/>
+    <img src="https://img.shields.io/badge/🌐_Web_Portal-TAGX_Labs-00FFEA?style=flat-square&logo=googlechrome&logoColor=black" alt="Portal"/>
   </a>
-  <a href="https://github.com/TagX-Lab/mousepilot/releases">
-    <img src="https://img.shields.io/badge/Download-Latest_Releases-8CC7C4?style=flat-square&logo=windows11&logoColor=black" alt="Downloads"/>
+  <a href="https://github.com/TagX-Lab?tab=repositories">
+    <img src="https://img.shields.io/badge/📦_Software_Index-Explore_Projects-8CC7C4?style=flat-square&logo=github&logoColor=black" alt="Repositories"/>
   </a>
-  <a href="https://github.com/TagX-Lab/mousepilot/blob/main/SECURITY.md">
-    <img src="https://img.shields.io/badge/Security-Zero_Trust-DB1A1A?style=flat-square&logo=shield&logoColor=white" alt="Security"/>
+  <a href="#-rd-divisions--initiatives">
+    <img src="https://img.shields.io/badge/🔬_Lab_Divisions-Learn_More-2C687B?style=flat-square&logo=target&logoColor=white" alt="Divisions"/>
   </a>
 </p>
 
@@ -35,92 +38,118 @@
 
 ---
 
-## 🚀 About TAGX Labs™
+## 🏛️ About TAGX Labs™
 
-**TAGX Labs™** is an independent high-performance software engineering lab focused on precision desktop engineering, kernel-level power management, and autonomous hardware kinematics.
+**TAGX Labs™** is an independent technology and software engineering organization dedicated to creating resilient, high-speed, and human-crafted software solutions.
 
-We craft state-of-the-art native Windows desktop utilities designed with **Linear & Raycast-grade aesthetics**, uncompromising reliability, and mathematical kinetic models.
+We operate at the intersection of **low-level systems programming**, **mathematical kinematics**, **cyber defense**, and **modern interactive web platforms**. Our mission is to engineer zero-compromise tools with minimalist memory footprints, elegant developer experiences, and hardened security models.
 
 ```
-       ⚡ Pure Kinematics           🛡️ Zero-Click Guarantee         🌐 Ultra-Light Footprint
-  Smooth algorithmic motion        Hardcoded hardware barrier       Asynchronous non-blocking
-   without artificial jolts         preventing synthetic clicks       under 25MB RAM consumption
+       ⚡ Core Performance           🛡️ Security by Default          🎨 Precision Craftsmanship
+  Native C/Win32 & asynchronous      Zero-trust architectures with      Bespoke Linear-grade UX
+   execution under 30MB overhead       cryptographic verification       with zero generic bloat
 ```
 
 ---
 
-## 🌟 Flagship Ecosystem: MousePilot™
+## 🔬 R&D Divisions & Focus Areas
 
-<table>
+<table width="100%">
   <tr>
-    <td width="55%">
-      <h3>🖱️ <a href="https://github.com/TagX-Lab/mousepilot">MousePilot — Autonomous Cursor Keep-Alive</a></h3>
+    <td width="50%" valign="top">
+      <h3>⚡ 1. Autonomous Desktop Systems & Kinematics</h3>
       <p>
-        Enterprise-grade Windows desktop application that keeps workstations active, prevents idle lockouts, and maintains collaboration status with mathematical precision.
+        Engineering native OS utilities, hardware event synthesizers, and intelligent state machines. Focuses on algorithmic motion curves, kernel power state management, and real-time human interaction telemetry.
       </p>
-      <ul>
-        <li><b>Zero-Click Hardware Barrier:</b> Impossible to misclick or alter active windows.</li>
-        <li><b>Multi-Pattern Kinematics:</b> Gentle Orbit, Stealth 1-Pixel Micro-Jiggle, Figure-8 Lissajous, and Random Wander.</li>
-        <li><b>Human Takeover Sensor:</b> Automatically yields cursor control the millisecond a human touches the mouse.</li>
-        <li><b>Multi-Monitor & DPI V2 Aware:</b> Crystal-clear rendering across 4K displays and multi-screen arrays.</li>
-      </ul>
-      <p>
-        👉 <a href="https://github.com/TagX-Lab/mousepilot"><b>View Source Repository</b></a> • 
-        🌐 <a href="https://tagx-lab.github.io/mousepilot-website/"><b>Visit Official Website</b></a>
-      </p>
+      <sub><b>Active Projects:</b> MousePilot Engine, Win32 Hardware Kernel Abstractions</sub>
     </td>
-    <td width="45%" align="center">
-      <a href="https://tagx-lab.github.io/mousepilot-website/">
-        <img src="https://raw.githubusercontent.com/TagX-Lab/mousepilot-website/main/assets/logo.png" width="160" alt="MousePilot Emblem"/>
-      </a>
-      <br/>
-      <sub><b>MousePilot v1.0.0 (Production Release)</b></sub>
+    <td width="50%" valign="top">
+      <h3>🛡️ 2. Cyber Defense & Client-Side Verification</h3>
+      <p>
+        Architecting hardened security boundaries, client-side WebCrypto SHA-256 integrity validators, Content Security Policies (CSP), and automated tamper-detection frameworks.
+      </p>
+      <sub><b>Active Projects:</b> In-Browser Binary Verifiers, Zero-Trust Packaging</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 3. Interactive Web & 3D Visual Computing</h3>
+      <p>
+        Crafting modern web architectures utilizing Three.js WebGL particle simulations, high-framerate HTML5 Canvas 2D kinematics, and accessible glassmorphism design systems.
+      </p>
+      <sub><b>Active Projects:</b> TAGX Web Experience, MousePilot Interactive Portal</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚙️ 4. Developer Tooling & Distribution CI/CD</h3>
+      <p>
+        Building streamlined release pipelines, portable self-contained binaries, multi-architecture installers, and automated test orchestration suites.
+      </p>
+      <sub><b>Active Projects:</b> Inno Setup Automation, PyInstaller Workflows</sub>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ Core Engineering Stack
+## 🚀 Product & Project Ecosystem
 
 ```
-Languages       │  Python 3.11+  •  C / C++ (Win32 API / ctypes)  •  JavaScript / TypeScript
-Desktop Systems │  Win32 Kernel32 / User32  •  Tkinter  •  Pystray System Tray  •  Inno Setup
-Web & Visuals   │  Three.js WebGL  •  CSS3 Glassmorphism  •  HTML5 Canvas 2D Kinematics
-DevOps & CI/CD  │  GitHub Actions  •  PyInstaller  •  Pytest Unit / Integration Testing
+TAGX Labs™ Ecosystem
+ ├── 🖥️ Systems & Desktop
+ │    └── 🖱️ MousePilot           Autonomous Cursor Keep-Alive & Anti-Sleep Utility (Windows)
+ │
+ ├── 🌐 Web & Digital Platforms
+ │    ├── 🌟 MousePilot Portal     Interactive Product Experience & Kinematics Simulator
+ │    └── 🏢 TAGX Corporate Hub   Official Technology Organization Showroom
+ │
+ └── 🧪 Experimental Pipeline
+      ├── 🔒 Zero-Trust Checksum   In-Browser Cryptographic Binary Authenticator
+      └── ⚡ Kernel Pulse Watchdog Autonomous Workplace Activity Supervisor
 ```
 
 ---
 
-## 📊 Lab Telemetry & GitHub Metrics
+## 📦 Featured Public Repositories
+
+| Project | Domain | Architecture | Status | Link |
+|:---|:---|:---:|:---:|:---:|
+| **[mousepilot](https://github.com/TagX-Lab/mousepilot)** | Autonomous Desktop Software | `Python` `Win32` `Tkinter` | 🟢 Active Release | [Repository](https://github.com/TagX-Lab/mousepilot) |
+| **[mousepilot-website](https://github.com/TagX-Lab/mousepilot-website)** | Interactive Product Platform | `JavaScript` `Three.js` `CSS3` | 🟢 Live | [Live Site](https://tagx-lab.github.io/mousepilot-website/) |
+| **[tagx-labs-website](https://github.com/TagX-Lab/tagx-labs-website)** | Corporate Brand Portal | `JavaScript` `HTML5` `CSS3` | 🟢 Live | [Repository](https://github.com/TagX-Lab/tagx-labs-website) |
+
+---
+
+## 🛠️ Lab Capabilities & Technology Matrix
+
+```
+Low-Level & Systems │  Python 3.11+  •  C / C++ (Win32 APIs / ctypes)  •  Rust (Tooling)
+Frontend & Graphics │  Modern JavaScript / TypeScript  •  Three.js WebGL  •  Canvas 2D
+Desktop GUI & UX    │  Tkinter Custom Systems  •  Pystray Tray Architecture  •  PyInstaller
+Packaging & CI/CD   │  Windows Inno Setup  •  GitHub Actions Workflows  •  Pytest Suites
+Security & Crypt    │  SHA-256 WebCrypto  •  Single-Instance Mutexes  •  Zero-Click Barriers
+```
+
+---
+
+## 📊 Organization Telemetry
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TagX-Lab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=030706&title_color=00FFEA&text_color=8CC7C4&icon_color=DB1A1A" alt="TagX-Lab GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TagX-Lab&layout=compact&theme=tokyonight&hide_border=true&bg_color=030706&title_color=00FFEA&text_color=8CC7C4" alt="Top Languages" height="165" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=TagX-Lab&theme=tokyonight&hide_border=true&background=030706&ring=00FFEA&fire=DB1A1A&currStreakLabel=00FFEA" alt="TagX-Lab GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=TagX-Lab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=030706&title_color=00FFEA&text_color=8CC7C4&icon_color=DB1A1A" alt="TAGX Labs GitHub Telemetry" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TagX-Lab&layout=compact&theme=tokyonight&hide_border=true&bg_color=030706&title_color=00FFEA&text_color=8CC7C4" alt="Organization Top Languages" height="165" />
 
 </div>
 
 ---
 
-## 🌐 Public Repositories
-
-| Repository | Description | Tech Stack | Status |
-|:---|:---|:---:|:---:|
-| **[mousepilot](https://github.com/TagX-Lab/mousepilot)** | Autonomous cursor keep-alive & anti-sleep desktop software | `Python` `Win32` `Tkinter` | 🟢 Active |
-| **[mousepilot-website](https://github.com/TagX-Lab/mousepilot-website)** | Official cyber-dark product landing page & downloads center | `JavaScript` `Three.js` `CSS3` | 🟢 Live |
-| **[tagx-labs-website](https://github.com/TagX-Lab/tagx-labs-website)** | TAGX Labs brand portal and technology showroom | `JavaScript` `HTML5` | 🟢 Live |
-
----
-
 <div align="center">
 
-### ⚡ Powered by TAGX Labs™
-*Crafted with precision • Engineered for zero failure • 100% Open Source*
+### ⚡ TAGX Labs™
+*Engineering the next standard of precision software.*
+
+[![GitHub](https://img.shields.io/badge/GitHub-TagX--Lab-00FFEA?style=flat-square&logo=github&logoColor=black)](https://github.com/TagX-Lab)
+[![Portal](https://img.shields.io/badge/Web_Portal-TAGX_Labs-8CC7C4?style=flat-square&logo=googlechrome&logoColor=black)](https://tagx-lab.github.io/mousepilot-website/)
+[![License](https://img.shields.io/badge/Open_Source-MIT_License-DB1A1A?style=flat-square&logo=opensourceinitiative&logoColor=white)](https://opensource.org/licenses/MIT)
 
 <sub>© 2026 TAGX Labs™. All rights reserved.</sub>
 
